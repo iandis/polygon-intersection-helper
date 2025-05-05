@@ -1,4 +1,4 @@
-import 'package:polygon_intersection/polygon_intersection.dart';
+import 'package:polygon_intersection_helper/polygon_intersection_helper.dart';
 import 'package:test/test.dart';
 import 'dart:math';
 

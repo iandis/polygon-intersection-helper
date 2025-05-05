@@ -1,7 +1,7 @@
-name: polygon_intersection
-description: A starting point for Dart libraries or applications.
+name: polygon_intersection_helper
+description: A polygon intersection algorithm written in Dart. 
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/iandis/polygon-intersection-helper
 
 environment:
   sdk: ^3.4.4

@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:polygon_intersection/src/polygon_intersection_checker_helper.dart';
+import 'package:polygon_intersection_helper/src/polygon_intersection_checker_helper.dart';
 
 typedef Polygon = List<Point<double>>;
 
