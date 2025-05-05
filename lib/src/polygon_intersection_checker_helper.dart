@@ -1,6 +1,6 @@
 import 'dart:math';
 
-class PolygonIntersectionCheckerHelper {
+abstract final class PolygonIntersectionCheckerHelper {
   static bool checkIfPolygonEdgesIntersectAnyEdge(List<Point<double>> polygon1, List<Point<double>> polygon2) {
     for (int i = 0; i < polygon1.length; i++) {
       var a = polygon1[i];
